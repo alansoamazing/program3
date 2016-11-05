@@ -1,0 +1,6 @@
+*
+.idea/
+!.gitignore
+!heap_priority_queue.hpp
+!bst_map.hpp
+!wordgenerator.cpp
